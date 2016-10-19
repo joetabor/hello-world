@@ -1,2 +1,5 @@
 # hello-world
-Beginner Repository
+
+To whom it may concern or intrigue,
+
+I am a learning github finally.
